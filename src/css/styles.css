@@ -1,0 +1,13 @@
+body{
+    background-color: #2F363F;
+}
+h1{
+    color:#ffffff;
+}
+.button{
+background: #45CE30;
+padding:1%;
+width:5%;
+margin-left: 1%;
+font-weight: 200;
+}
